@@ -8,6 +8,4 @@
   🔹 Enjoy breaking complexity into <b>iterative pieces</b>
 </p>
 
-<p align="center">
 [![Tokscale Stats](https://tokscale.ai/api/embed/sreio/svg?theme=light&template=graph&tokens=compact&cost=compact)](https://tokscale.ai/u/sreio)
-</p>
