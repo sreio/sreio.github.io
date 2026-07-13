@@ -8,6 +8,8 @@
   🔹 Enjoy breaking complexity into <b>iterative pieces</b>
 </p>
 
+[![Tokscale Stats](https://tokscale.ai/api/embed/sreio/svg?theme=light&template=graph&tokens=compact&cost=compact)](https://tokscale.ai/u/sreio)
+
 <p align="center">
   <!-- 总览 + 语言占比 -->
   <img src="https://github-readme-stats.vercel.app/api?username=sreio&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true&theme=transparent" height="165" />
